@@ -15,7 +15,7 @@ Among these, Random Forest Regression provided the most accurate predictions.
 An interactive web UI is built with Streamlit for easy input and visualization of predictions.
 
 🚀 How to Run
-Clone the repository:
-git clone https://github.com/yourusername/house-price-prediction.git
-cd house-price-prediction
-streamlit run prediction.py
+1.Clone the repository:
+2.Open the project folder in vs code
+3.run the following command in the terminal : streamlit run prediction.py
+this will launch the streamlit app where you can input data and get the house price prediction
